@@ -1,0 +1,32 @@
+media:
+  input: public/images
+  output: /images
+
+content:
+  - name: posts
+    label: Blog Posts
+    type: collection
+    path: src/data/post
+    fields:
+      - name: publishDate
+        label: Publish Date
+        type: date
+      - name: title
+        label: Title (Discover Headline)
+        type: string
+      - name: excerpt
+        label: Short Description (Meta Description)
+        type: text
+      - name: image
+        label: Featured Image (1200x675px WebP)
+        type: image
+      - name: category
+        label: Category
+        type: string
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: body
+        label: Article Content
+        type: rich-text
