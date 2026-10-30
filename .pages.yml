@@ -30,3 +30,6 @@ content:
       - name: body
         label: Article Content
         type: rich-text
+      - name: slug
+        label: Custom Slug (URL) - Optional
+        type: string
