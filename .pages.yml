@@ -8,6 +8,9 @@ content:
     type: collection
     path: src/data/post
     fields:
+    - name: slug
+      label: Slug (URL)
+      type: string
       - name: publishDate
         label: Publish Date
         type: date
