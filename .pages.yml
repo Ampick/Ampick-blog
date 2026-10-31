@@ -7,7 +7,12 @@ content:
     label: Blog Posts
     type: collection
     path: src/data/post
+    filename: "{fields.slug}.md"
     fields:
+      - name: slug
+        label: URL Slug (जैसे- tata-capital-scholarship-2026)
+        type: string
+        required: true
       - name: publishDate
         label: Publish Date
         type: date
@@ -30,6 +35,3 @@ content:
       - name: body
         label: Article Content
         type: rich-text
-      - name: slug
-        label: Custom Slug (URL) - Optional
-        type: string
