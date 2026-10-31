@@ -1,47 +1,33 @@
-export interface Link {
-  text: string;
-  href: string;
-  ariaLabel?: string;
-  target?: string;
-}
-
-export interface MenuLink extends Link {
-  links?: Array<Link>;
-}
-
-export interface FooterLink {
-  title?: string;
-  links: Array<Link>;
-}
+import { getPermalink, getBlogPermalink } from './utils/permalinks';
 
 export const headerData = {
   links: [
     {
       text: 'Home',
-      href: '/',
+      href: getPermalink('/'),
     },
     {
       text: 'Scholarship',
-      href: '/category/scholarship',
+      href: getPermalink('scholarship', 'category'),
     },
     {
       text: 'Sarkari Yojana',
-      href: '/category/sarkari-yojana',
+      href: getPermalink('sarkari-yojana', 'category'),
     },
     {
       text: 'Sarkari Job',
-      href: '/category/sarkari-job',
+      href: getPermalink('sarkari-job', 'category'),
     },
     {
       text: 'Result & Admit Card',
-      href: '/category/result',
+      href: getPermalink('result', 'category'),
     },
     {
       text: 'Education',
-      href: '/category/education',
+      href: getPermalink('education', 'category'),
     },
   ],
-  actions: [{ text: 'Latest Posts', href: '#posts', target: '_self' }],
+  actions: [{ text: 'All Posts', href: getBlogPermalink() }],
 };
 
 export const footerData = {
@@ -49,27 +35,27 @@ export const footerData = {
     {
       title: 'Categories',
       links: [
-        { text: 'Scholarship', href: '/category/scholarship' },
-        { text: 'Sarkari Yojana', href: '/category/sarkari-yojana' },
-        { text: 'Sarkari Job', href: '/category/sarkari-job' },
-        { text: 'Result & Admit Card', href: '/category/result' },
-        { text: 'Education / Career', href: '/category/education' },
+        { text: 'Scholarship', href: getPermalink('scholarship', 'category') },
+        { text: 'Sarkari Yojana', href: getPermalink('sarkari-yojana', 'category') },
+        { text: 'Sarkari Job', href: getPermalink('sarkari-job', 'category') },
+        { text: 'Result & Admit Card', href: getPermalink('result', 'category') },
+        { text: 'Education / Career', href: getPermalink('education', 'category') },
       ],
     },
     {
-      title: 'Company',
+      title: 'Important Links',
       links: [
-        { text: 'About Us', href: '/about' },
-        { text: 'Contact', href: '/contact' },
-        { text: 'Privacy Policy', href: '/privacy' },
-        { text: 'Terms & Conditions', href: '/terms' },
+        { text: 'About Us', href: getPermalink('/about') },
+        { text: 'Contact Us', href: getPermalink('/contact') },
+        { text: 'Privacy Policy', href: getPermalink('/privacy') },
+        { text: 'Terms & Conditions', href: getPermalink('/terms') },
       ],
     },
   ],
   secondaryLinks: [
-    { text: 'Privacy Policy', href: '/privacy' },
-    { text: 'Terms & Conditions', href: '/terms' },
+    { text: 'Terms', href: getPermalink('/terms') },
+    { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   socialLinks: [],
-  footNote: `© 2026 Ampick. All Rights Reserved.`,
+  footNote: `© 2026 Ampick. All rights reserved.`,
 };
