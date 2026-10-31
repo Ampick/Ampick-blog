@@ -49,6 +49,7 @@ export const footerData = {
         { text: 'Contact Us', href: getPermalink('/contact') },
         { text: 'Privacy Policy', href: getPermalink('/privacy') },
         { text: 'Terms & Conditions', href: getPermalink('/terms') },
+        { text: 'Disclaimer', href: getPermalink('/disclaimer') },
       ],
     },
   ],
