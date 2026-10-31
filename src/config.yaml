@@ -1,6 +1,6 @@
 site:
   name: Ampick
-  site: 'https://astrowind.vercel.app'
+  site: 'https://www.ampick.xyz'
   base: '/'
   trailingSlash: false
 
