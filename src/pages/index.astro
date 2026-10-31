@@ -5,13 +5,12 @@ import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
 import Features2 from '~/components/widgets/Features2.astro';
 
 const metadata = {
-  title: 'Ampick – Latest Scholarships, Sarkari Yojana & Tech News',
+  title: 'Ampick – Latest Scholarships, Sarkari Yojana & Education Updates',
   ignoreTitleTemplate: true,
 };
 ---
 
 <Layout metadata={metadata}>
-  <!-- Hero Section ***************** -->
   <Hero
     actions={[
       {
@@ -22,7 +21,6 @@ const metadata = {
       },
       { text: 'सरकारी योजनाएं', href: '/category/sarkari-yojana' },
     ]}
-    image={{ src: '~/assets/images/hero-image.png', alt: 'Scholarship and Education Hero Image' }}
   >
     <Fragment slot="title">
       विद्यार्थियों के लिए <span class="text-accent dark:text-white highlight">लेटेस्ट स्कॉलरशिप</span> और सरकारी योजनाएं
@@ -33,7 +31,6 @@ const metadata = {
     </Fragment>
   </Hero>
 
-  <!-- Categories Highlights Widget *** -->
   <Features2
     title="प्रमुख श्रेणियां (Top Categories)"
     subtitle="अपनी जरूरत के अनुसार सही योजना या छात्रवृत्ति की जानकारी तुरंत खोजें।"
@@ -42,20 +39,17 @@ const metadata = {
       {
         title: 'स्कॉलरशिप (Scholarships)',
         description: 'प्राइवेट और सरकारी छात्रवृत्तियां जो मेधावी और जरूरतमंद छात्रों को आर्थिक मदद देती हैं।',
-        icon: 'flat-color-icons:graduation-cap',
-        href: '/category/scholarship',
+        icon: 'tabler:school',
       },
       {
         title: 'सरकारी योजनाएं (Sarkari Yojana)',
         description: 'केंद्र और राज्य सरकार की सभी कल्याणकारी योजनाएं और उनके लाभ लेने का तरीका।',
-        icon: 'flat-color-icons:document',
-        href: '/category/sarkari-yojana',
+        icon: 'tabler:file-Check',
       },
       {
-        title: 'एजुकेशन न्यूज (Education Updates)',
-        description: 'बोर्ड रिजल्ट, एडमिट कार्ड, परीक्षा तिथियां और शैक्षणिक जगत की हर बड़ी खबर।',
-        icon: 'flat-color-icons:news',
-        href: '/category/tech-news',
+        title: 'एजुकेशन व जॉब्स (Jobs & Result)',
+        description: 'नई सरकारी भर्तियां, बोर्ड रिजल्ट, एडमिट कार्ड और शैक्षणिक जगत की हर बड़ी खबर।',
+        icon: 'tabler:briefcase',
       },
     ]}
   >
@@ -64,7 +58,6 @@ const metadata = {
     </Fragment>
   </Features2>
 
-  <!-- Recent Articles Widget ******** -->
   <BlogLatestPosts
     id="posts"
     title="ताज़ा आर्टिकल्स (Latest Posts)"
