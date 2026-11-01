@@ -11,7 +11,7 @@ metadata:
   title:
     default: Ampick
     template: '%s — Ampick'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\Ampick पर पाएं छात्रवृत्तियों, सरकारी योजनाओं, सरकारी नौकरियों, परीक्षा परिणाम और शिक्षा से जुड़ी भरोसेमंद जानकारी सरल हिंदी में।"
   robots:
     index: true
     follow: true
