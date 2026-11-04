@@ -20,7 +20,7 @@ export const headerData = {
     },
     {
       text: 'Result & Admit Card',
-      href: getPermalink('result-&-admit-card', 'category'),
+      href: getPermalink('result', 'category'),
     },
     {
       text: 'Education',
