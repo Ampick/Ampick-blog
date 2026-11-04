@@ -7,6 +7,12 @@ excerpt: RRB Technician Result 2026 का इंतजार कर रहे �
   Grade 3 की संभावित रिजल्ट डेट, कट ऑफ, मेरिट लिस्ट, स्कोरकार्ड डाउनलोड
   प्रक्रिया और चयन प्रक्रिया की पूरी जानकारी प्राप्त करें।
 image: /images/rrb-technician-result-2026.webp
+category: Result & Admit Card
+tags:
+  - RRB Technician Result 2026
+  - RRB Technician Result
+  - RRB Technician Grade 3 Result
+  - RRB Technician Result Date
 ---
 नमस्कार दोस्तों! रेलवे में टेक्नीशियन की नौकरी पाने का सपना देख रहे लाखों उम्मीदवारों के लिए महत्वपूर्ण अपडेट है। रेलवे भर्ती बोर्ड (RRB) ने Technician Grade 1 Signal और Grade 3 के पदों के लिए कंप्यूटर आधारित परीक्षा (CBT) आयोजित कर ली है। परीक्षा में शामिल होने वाले उम्मीदवार अब अपने **RRB Technician Result 2026** का इंतजार कर रहे हैं।
 
