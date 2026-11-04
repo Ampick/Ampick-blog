@@ -38,7 +38,7 @@ export const footerData = {
         { text: 'Scholarship', href: getPermalink('scholarship', 'category') },
         { text: 'Sarkari Yojana', href: getPermalink('sarkari-yojana', 'category') },
         { text: 'Sarkari Job', href: getPermalink('sarkari-job', 'category') },
-        { text: 'Result & Admit Card', href: getPermalink('result-&-admit-card', 'category') },
+        { text: 'Result & Admit Card', href: getPermalink('result', 'category') },
         { text: 'Education / Career', href: getPermalink('education', 'category') },
       ],
     },
