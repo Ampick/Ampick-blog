@@ -20,11 +20,11 @@ export const headerData = {
     },
     {
       text: 'Result & Admit Card',
-      href: getPermalink('result', 'category'),
+      href: getPermalink('result-admit-card', 'category'),
     },
     {
       text: 'Education',
-      href: getPermalink('education', 'category'),
+      href: getPermalink('education-career', 'category'),
     },
   ],
   actions: [{ text: 'All Posts', href: getBlogPermalink() }],
@@ -38,8 +38,8 @@ export const footerData = {
         { text: 'Scholarship', href: getPermalink('scholarship', 'category') },
         { text: 'Sarkari Yojana', href: getPermalink('sarkari-yojana', 'category') },
         { text: 'Sarkari Job', href: getPermalink('sarkari-job', 'category') },
-        { text: 'Result & Admit Card', href: getPermalink('result', 'category') },
-        { text: 'Education / Career', href: getPermalink('education', 'category') },
+        { text: 'Result & Admit Card', href: getPermalink('result-admit-card', 'category') },
+        { text: 'Education / Career', href: getPermalink('education-career', 'category') },
       ],
     },
     {
