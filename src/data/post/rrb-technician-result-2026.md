@@ -1,7 +1,7 @@
 ---
 slug: rrb-technician-result-2026
 publishDate: 2026-11-04
-title: "# RRB Technician Result 2026: Grade 1 & 3 रिजल्ट कब आएगा? जानें Expected
+title: "RRB Technician Result 2026: Grade 1 & 3 रिजल्ट कब आएगा? जानें Expected
   Date, Cut Off और Scorecard"
 excerpt: RRB Technician Result 2026 का इंतजार कर रहे उम्मीदवार यहां Grade 1 और
   Grade 3 की संभावित रिजल्ट डेट, कट ऑफ, मेरिट लिस्ट, स्कोरकार्ड डाउनलोड
@@ -16,8 +16,9 @@ image: /images/rrb-technician-result-2026.webp
 
 ## RRB Technician Result 2026 Overview
 
+
 | विवरण | जानकारी |
-|---|---|
+| ----------------------------- | ------------------------------------------------------------------- |
 | भर्ती बोर्ड | Railway Recruitment Board (RRB) |
 | परीक्षा का नाम | RRB Technician Recruitment 2026 |
 | CEN नंबर | CEN 02/2026 |
@@ -29,6 +30,7 @@ image: /images/rrb-technician-result-2026.webp
 | रिजल्ट की तारीख | अभी घोषित नहीं |
 | रिजल्ट का मोड | ऑनलाइन |
 | आधिकारिक वेबसाइट | [rrb.indianrailways.gov.in](https://www.rrb.indianrailways.gov.in/) |
+
 
 ## RRB Technician Result 2026 Latest Update
 
@@ -73,13 +75,15 @@ RRB Technician Cut Off 2026 वह न्यूनतम स्कोर है 
 
 ### RRB Technician 2026 Minimum Qualifying Marks
 
+
 | श्रेणी | न्यूनतम क्वालिफाइंग प्रतिशत |
-|---|---:|
+| ------------ | --------------------------- |
 | General (UR) | 40% |
 | EWS | 40% |
 | OBC-NCL | 30% |
 | SC | 30% |
 | ST | 25% |
+
 
 ये न्यूनतम क्वालिफाइंग प्रतिशत हैं, वास्तविक चयन कट ऑफ नहीं। केवल न्यूनतम अंक प्राप्त करने से अगले चरण में चयन की गारंटी नहीं होती।
 
@@ -156,13 +160,15 @@ RRB Technician भर्ती में उम्मीदवारों क�
 
 ## RRB Technician Result 2026 Important Links
 
+
 | विवरण | लिंक |
-|---|---|
+| ------------------------------- | --------------------------------------------------------- |
 | RRB Official Website | [यहां क्लिक करें](https://www.rrb.indianrailways.gov.in/) |
 | RRB Bhopal | [यहां क्लिक करें](https://rrbbhopal.gov.in/) |
 | RRB Technician Recruitment 2026 | [यहां क्लिक करें](https://www.rrbbhopal.gov.in/) |
 | RRB Technician Result 2026 | रिजल्ट जारी होने पर लिंक सक्रिय होगा |
 | RRB Technician Scorecard 2026 | रिजल्ट जारी होने पर लिंक सक्रिय होगा |
+
 
 **नोट:** रिजल्ट और स्कोरकार्ड के लिए केवल आधिकारिक RRB वेबसाइटों का उपयोग करें। किसी अनधिकृत वेबसाइट पर अपनी व्यक्तिगत जानकारी या लॉगिन विवरण साझा न करें।
 
