@@ -7,7 +7,7 @@ excerpt: RRB Technician Result 2026 का इंतजार कर रहे �
   Grade 3 की संभावित रिजल्ट डेट, कट ऑफ, मेरिट लिस्ट, स्कोरकार्ड डाउनलोड
   प्रक्रिया और चयन प्रक्रिया की पूरी जानकारी प्राप्त करें।
 image: /images/rrb-technician-result-2026.webp
-category: Result
+category: Result & Admit Card
 tags:
   - RRB Technician Result 2026
   - RRB Technician Result
